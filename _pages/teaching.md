@@ -7,6 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Here are some courses I have worked as a teaching fellow for:
 
-Organize your courses by years, topics, or universities, however you like!
+MAT 2041 Linear Algebra and Applications (2023 Fall, 2025 Spring)
+CSC 1001 Introduction to Computer Science: Programming Methodology (2025 Fall)
