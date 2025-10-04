@@ -1,11 +1,14 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: CV
 nav: true
 nav_order: 5
-cv_pdf: Sizhe_CV.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: /assets/pdf/Sizhe_CV.pdf
+description: Curriculum Vitae of Sizhe Li
 toc:
   sidebar: left
 ---
+
+## CV PDF
+[Download full CV (PDF)](/assets/pdf/Sizhe_CV.pdf)
