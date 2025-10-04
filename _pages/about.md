@@ -14,13 +14,13 @@ social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  #scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  #limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  #scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  #limit: 3 # leave blank to include all the blog posts
 ---
 
 Hi! I'm Sizhe, a final-year undergrad at the Chinese University of Hong Kong, Shenzhen, majoring in statistics. I am fortunate to be advised by [Prof. Tongxin Li](https://tongxin.me) and [Prof. Nicolas Christianson](https://nicochristianson.com).  I was also a visiting student at UC, Berkeley during 2024 Fall.
