@@ -19,8 +19,12 @@ jobs:
       - name: Setup Ruby 💎
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.3.5   # ✅ 指定 Ruby 版本
+          ruby-version: '3.3.5'   # ✅ 指定 Ruby 3.3.5
           bundler-cache: true
+          cache-version: 1        # ✅ 避免用旧缓存
+
+      - name: Verify Ruby version
+        run: ruby -v              # ✅ 确认是 3.3.5
 
       - name: Install dependencies
         run: bundle install
