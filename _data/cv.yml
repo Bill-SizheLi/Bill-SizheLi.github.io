@@ -61,8 +61,8 @@
       institution: CUHK-Shenzhen
       year: 2023 – 2025
       description:
-        - MAT2041: Linear Algebra and Applications (Fall 2023, Spring 2025)
-        - CSC1001: Introduction to Computer Science: Programming Methodology (Fall 2025)
+        - "MAT2041: Linear Algebra and Applications (Fall 2023, Spring 2025)"
+        - "CSC1001: Introduction to Computer Science: Programming Methodology (Fall 2025)"
 
 - title: Honors and Awards
   type: list
