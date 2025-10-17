@@ -1,1 +1,91 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Name
+      value: Sizhe Li
+    - name: Email
+      value: 122090273@link.cuhk.edu.cn
+    - name: GitHub
+      value: <a href="https://github.com/Bill-SizheLi">Bill-SizheLi</a>
+    - name: Nationality
+      value: Chinese
 
+- title: Education
+  type: time_table
+  contents:
+    - title: B.Sc. in Statistics
+      institution: The Chinese University of Hong Kong, Shenzhen
+      location: Shenzhen, China
+      year: Sep. 2022 – Present
+    - title: Visiting Student
+      institution: University of California, Berkeley
+      location: California, USA
+      year: Aug. 2024 – Dec. 2024
+
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Prediction-Specific Design of Learning-Augmented Algorithms
+      institution: CUHK-Shenzhen
+      year: Feb. 2024 – May 2025
+      description:
+        - Supervised by Prof. Tongxin Li and Prof. Nicolas Christianson.
+        - Proposed a prediction-specific framework for learning-augmented algorithms and introduced strong optimality capturing Pareto trade-offs between consistency and robustness.
+        - Developed a bi-level optimization framework and designed provably strongly optimal algorithms for deterministic/randomized ski rental and one-max search.
+    - title: Optimal Tradeoff in Learning-Augmented Non-Clairvoyant Scheduling
+      institution: CUHK-Shenzhen
+      year: Jun. 2025 – Present
+      description:
+        - Ongoing work on consistency–robustness trade-offs in n-job scheduling.
+        - Established refined near-optimal bounds improving upon Wei & Zhang (2020).
+
+- title: Publications
+  type: list
+  contents:
+    - <b>Sizhe Li</b>, Nicolas Christianson, Tongxin Li. <i>Prediction-Specific Design of Learning-Augmented Algorithms.</i> <a href="https://arxiv.org/abs/2510.14887">arXiv:2510.14887</a>, under review at ACM SIGMETRICS.
+
+- title: Projects
+  type: time_table
+  contents:
+    - title: Simulation Model for ICU Resource Optimization
+      institution: UC Berkeley
+      year: Aug. 2024 – Dec. 2024
+      description:
+        - Developed a discrete-event simulation optimizing ICU capacity using the MIMIC-IV demo dataset.
+        - Proposed patient prioritization via dynamic penalty evaluation and analyzed robustness under variable load.
+
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Undergraduate Teaching Fellow
+      institution: CUHK-Shenzhen
+      year: 2023 – 2025
+      description:
+        - MAT2041: Linear Algebra and Applications (Fall 2023, Spring 2025)
+        - CSC1001: Introduction to Computer Science: Programming Methodology (Fall 2025)
+
+- title: Honors and Awards
+  type: list
+  contents:
+    - Dean’s List, 2023–2025
+    - Academic Performance Scholarship (Top 1–3%), 2023–2024
+    - Undergraduate Research Award, 2025
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Programming
+      items:
+        - Python (NumPy, Pandas, SciPy)
+        - Java, R, MATLAB
+    - title: Tools
+      items:
+        - Git, Jupyter, Linux, Overleaf
+    - title: Typesetting
+      items:
+        - LaTeX
+
+- title: Other Interests
+  type: list
+  contents:
+    - "<u>Hobbies:</u> Piano"
