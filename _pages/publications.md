@@ -6,8 +6,8 @@ nav: true
 nav_order: 2
 ---
 
-## Publications
+{% include bib_search.liquid %}
 
-- **Sizhe Li**, Nicolas Christianson, Tongxin Li.  
-  *Prediction-Specific Design of Learning-Augmented Algorithms.*  
-  [arXiv:2510.14887](https://arxiv.org/abs/2510.14887), under review.
+<div class="publications">
+{% bibliography --query @*[title^="Prediction-Specific Design of Learning-Augmented Algorithms"] %}
+</div>
