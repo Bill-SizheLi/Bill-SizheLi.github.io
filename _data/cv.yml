@@ -6,7 +6,7 @@
     - name: Email
       value: 122090273@link.cuhk.edu.cn
     - name: GitHub
-      value: <a href="https://github.com/Bill-SizheLi">Bill-SizheLi</a>
+      value: "<a href='https://github.com/Bill-SizheLi'>Bill-SizheLi</a>"
     - name: Nationality
       value: Chinese
 
@@ -42,7 +42,7 @@
 - title: Publications
   type: list
   contents:
-    - <b>Sizhe Li</b>, Nicolas Christianson, Tongxin Li. <i>Prediction-Specific Design of Learning-Augmented Algorithms.</i> <a href="https://arxiv.org/abs/2510.14887">arXiv:2510.14887</a>, under review at ACM SIGMETRICS.
+    - "<b>Sizhe Li</b>, Nicolas Christianson, Tongxin Li. <i>Prediction-Specific Design of Learning-Augmented Algorithms.</i> <a href='https://arxiv.org/abs/2510.14887'>arXiv:2510.14887</a>, under review at ACM SIGMETRICS."
 
 - title: Projects
   type: time_table
