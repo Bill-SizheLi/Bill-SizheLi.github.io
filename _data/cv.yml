@@ -71,20 +71,6 @@
     - Academic Performance Scholarship (Top 1–3%), 2023–2024
     - Undergraduate Research Award, 2025
 
-- title: Skills
-  type: nested_list
-  contents:
-    - title: Programming
-      items:
-        - Python (NumPy, Pandas, SciPy)
-        - Java, R, MATLAB
-    - title: Tools
-      items:
-        - Git, Jupyter, Linux, Overleaf
-    - title: Typesetting
-      items:
-        - LaTeX
-
 - title: Other Interests
   type: list
   contents:
