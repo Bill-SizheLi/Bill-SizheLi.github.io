@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
@@ -23,6 +23,6 @@ latest_posts:
   #limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Sizhe, a final-year undergrad at the Chinese University of Hong Kong, Shenzhen, majoring in statistics. I am fortunate to be advised by [Prof. Tongxin Li](https://tongxin.me) and [Prof. Nicolas Christianson](https://nicochristianson.com).  I was also a visiting student at UC, Berkeley during 2024 Fall.
+Hi! I'm Sizhe, a final-year undergrad at the Chinese University of Hong Kong, Shenzhen, majoring in statistics. I am fortunate to be advised by [Prof. Tongxin Li](https://tongxin.me) and [Prof. Nicolas Christianson](https://nicochristianson.com). I was also a visiting student at UC, Berkeley during 2024 Fall.
 
-My research focuses on **learning-augmented online algorithms** and [**algorithms with predictions**](https://algorithms-with-predictions.github.io/). I am particularly interested in *decision-making under uncertainty*, where the challenge is to design algorithms that leverage predictions while maintaining strong worst-case guarantees.
+My research focuses on **learning-augmented online algorithms** and [**algorithms with predictions**](https://algorithms-with-predictions.github.io/). I am particularly interested in _decision-making under uncertainty_, where the challenge is to design algorithms that leverage predictions while maintaining strong worst-case guarantees.

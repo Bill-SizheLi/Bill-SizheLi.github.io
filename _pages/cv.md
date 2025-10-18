@@ -9,5 +9,3 @@ description: Curriculum Vitae of Sizhe Li
 #toc:
 #  sidebar: left
 ---
-
-
