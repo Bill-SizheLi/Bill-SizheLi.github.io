@@ -17,8 +17,8 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-cv",
-          title: "CV",
-          description: "Curriculum Vitae of Sizhe Li",
+          title: "cv",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
