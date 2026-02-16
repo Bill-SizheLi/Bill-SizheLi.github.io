@@ -23,3 +23,18 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+
+#mapmyvisitors-widget {
+  width: 120px;
+  opacity: 0.6;
+}
+
+#mapmyvisitors-widget img,
+#mapmyvisitors-widget canvas,
+#mapmyvisitors-widget iframe {
+  width: 120px !important;
+  height: auto !important;
+  max-width: 100% !important;
+  display: block;
+}
