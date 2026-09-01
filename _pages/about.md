@@ -9,6 +9,12 @@ profile:
   image: prof_pic.jpg
   image_circular: ture # crops the image to make it circular
 
+more_info: >
+    <p>
+      Baltimore, MD, 21218
+      <a href="mailto:sli357@jhu.edu">sli357@jhu.edu</a>
+    </p>
+
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
@@ -25,4 +31,4 @@ latest_posts:
 
 Hi! I'm Sizhe, a first-year Ph.D. student in Computer Science at Johns Hopkins, where I am fortunate to be advised by [Prof. Nicolas Christianson](https://nicochristianson.com). Before joining Johns Hopkins, I graduated from CUHK(SZ) in 2026 with a Bachelor of Science degree in statistics, where I was fortunate to be mentored by [Prof. Tongxin Li](https://tongxin.me). I was also a visiting student at UC, Berkeley during 2024 Fall.
 
-My research focuses on **Online Algorithms** and [**Learning-Augmented Algorithms**](https://algorithms-with-predictions.github.io/). I am always open to collaborations and discussions. Email is the best way to reach me: [sli357@jhu.edu](mailto:sli357@jhu.edu).
+My research focuses on **Online Algorithms** and [**Learning-Augmented Algorithms**](https://algorithms-with-predictions.github.io/). I am always open to collaborations and discussions. Email is the best way to reach me!
