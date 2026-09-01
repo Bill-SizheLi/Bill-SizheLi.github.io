@@ -480,7 +480,7 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/bill-sizheli", "_blank");
+          window.open("https://github.com/Bill-SizheLi", "_blank");
         },
       },{
       id: 'light-theme',
