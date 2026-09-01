@@ -8,11 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-
-more_info: >
+  more_info: >
     <p>
       Baltimore, MD, 21218
-      <a href="mailto:sli357@jhu.edu">sli357@jhu.edu</a>
+      sli357[at]jhu[dot]edu
     </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
