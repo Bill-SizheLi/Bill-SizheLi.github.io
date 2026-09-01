@@ -23,6 +23,6 @@ latest_posts:
   #limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Sizhe, a final-year undergrad at the Chinese University of Hong Kong, Shenzhen, majoring in statistics. I am fortunate to be advised by [Prof. Tongxin Li](https://tongxin.me) and [Prof. Nicolas Christianson](https://nicochristianson.com). I was also a visiting student at UC, Berkeley during 2024 Fall.
+Hi! I'm Sizhe, a first-year Ph.D. student at [Computer Science Department, Johns Hopkins University](https://www.cs.jhu.edu/), I am fortunate to be advised by [Prof. Nicolas Christianson](https://nicochristianson.com). Previously, I received B.S. in Statistics from [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), where I was fortunate to be advised by [Prof. Tongxin Li](https://tongxin.me). I was also a visiting student at [UC, Berkeley](https://www.berkeley.edu/) during 2024 Fall.
 
-My research focuses on **learning-augmented online algorithms** and [**algorithms with predictions**](https://algorithms-with-predictions.github.io/). I am particularly interested in _decision-making under uncertainty_, where the challenge is to design algorithms that leverage predictions while maintaining strong worst-case guarantees.
+My research focuses on **online algorithms** and [**learning-augmented algorithms**](https://algorithms-with-predictions.github.io/). I am always open to collaborations and discussions. Email is the best way to reach me: [sli357@jhu.edu](mailto:sli357@jhu.edu).
